@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [
-	![](images/octocat-1607481291600.png | width=320px)
+	<img src="https://github.com/thomasrosen/thomasrosen/raw/main/images/octocat-1607481291600.png" style="max-width:100%;width:320px;">
 ](https://myoctocat.com/)
 
 <!--
