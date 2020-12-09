@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<div style="width:320px;max-width:100%;">
-	[
-		![](images/octocat-1607481291600.png)
-	](https://myoctocat.com/)
-</div>
+[
+	![](images/octocat-1607481291600.png | width=320px)
+](https://myoctocat.com/)
 
 <!--
 **thomasrosen/thomasrosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
