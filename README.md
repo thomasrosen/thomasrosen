@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[
-	![](images/octocat-1607481291600.png)
-](https://myoctocat.com/)
 <div style="width:320px;max-width:100%;">
 </div>
 
