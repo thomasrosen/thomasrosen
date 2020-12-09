@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](images/octocat-1607481291600.png)
+
 <!--
 **thomasrosen/thomasrosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
