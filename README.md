@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You can contact me at thomas.rosen@qiekub.org
+
+My pronouns are: he/him or they/then
+
 [
 	<img src="https://github.com/thomasrosen/thomasrosen/raw/main/images/octocat-1607481291600.png" width="200px" style="max-width:100%;">
 ](https://myoctocat.com/)
