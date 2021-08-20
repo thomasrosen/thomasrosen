@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can contact me at thomas.rosen@qiekub.org
+You can contact me at thomas.rosen@me.com
 
 My pronouns are: he/him or they/then
 
