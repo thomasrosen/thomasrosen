@@ -2,7 +2,7 @@
 
 You can contact me at thomas.rosen@me.com
 
-My pronouns are: he/him or they/then
+My pronouns are: they/then or he/him
 
 [
 	<img src="https://github.com/thomasrosen/thomasrosen/raw/main/images/octocat-1607481291600.png" width="200px" style="max-width:100%;">
