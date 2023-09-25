@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can contact me at thomas.rosen@me.com
+You can contact me at hello@thomasrosen.me
 
 My pronouns are: they/them or he/him
 
